@@ -421,3 +421,5 @@ color:#333;}
 	margin-left: auto;
 }
 #mg2{margin:2%}#mg2 img{height:100px;}
+@media  screen and (max-width: 600px) {.q2516{width: 100%;display: block;}}
+@media  screen and (min-width: 700px) {.q2516{display: none;}}
